@@ -12,4 +12,5 @@ Longest Intervals: These are the columns that show the longest increasing and de
 
 # Libraries Used
 
-yfinance was used as the data source and pandas library was used for data processing.
+- Data Source: yfinance
+- Data Proccesing: Pandas
