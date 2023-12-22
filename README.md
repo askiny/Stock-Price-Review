@@ -10,6 +10,6 @@ Difference Column: For a company, it is expressed as 1 if the day's opening pric
 
 Longest Intervals: These are the columns that show the longest increasing and decreasing intervals for both Change and Difference columns.
 
-# Librries Used
+# Libraries Used
 
 yfinance was used as the data source and pandas library was used for data processing.
